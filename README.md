@@ -11,7 +11,7 @@ Sau khi triển khai, mỗi khi khởi động sẽ tải bản V2Ray mới nh�
  1. Fork dự án này qua tài khoản GitHub của bạn（trên PC có thể thấy nút Fork trên cùng bên tay phải, ví dụ tài khoản của bạn tên là `example`）
  2. Sửa lại tên dự án thành tên bất kỳ không nên chứa hai từ khóa `v2ray` và `heroku`（Ví dụ đổi thành `demo`）
  
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/TranCuongQ4/4gheroku)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/qqd99/4gfree)
 
  3. Quay lại trang chủ của dự án，bấm vào liên kết để triển khai V2Ray
 
